@@ -1,0 +1,2 @@
+## SOM
+This project aims to load and classify data from four text files: "fruits," "animals," "countries," and "veggies." Each file contains a list of items, each described by a vector of features. The goal is to process this data and apply the Self-Organizing Maps (SOM) algorithm for classification.
